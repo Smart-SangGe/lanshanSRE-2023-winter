@@ -1,0 +1,9 @@
+[submodule "liuqingqing"]
+	path = liuqingqing
+	url = https://github.com/AGinnn77/2401Test.git
+[submodule "xuhang"]
+	path = xuhang
+	url = https://github.com/cqupt-zerohenry/lanshan-yunwei.git
+[submodule "huyuemin"]
+	path = huyuemin
+	url = https://github.com/toldder/kaohe.git
